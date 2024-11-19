@@ -9,7 +9,11 @@ So, I've been thinking about writing those words down because they could make an
 | ------------ | ------------- | ---------------- | -------------------- | --------------- | ----------------------- | -------------- |
 | تاجر         | Taajir        | Arabic           | Merchant             | Tajir           | Rich                    | Batavian       |
 | Soirée       | Soaree        | French           | Evening              | Sore            | Evening                 | Indonesian     |
-|              |               |                  |                      |                 |                         |                |
+| Precies      | Presis        | Dutch            | Precisely            | Persis          | Precisely               | Indonesian     |
+| Enveloppe    | Anvelop       | French           | Envelope             | Amplop          | Envelope                | Indonesian     |
+| Te laat      | Te laat       | Dutch            | Too late             | Telat           | Late                    | Indonesian     |
+| فندق         | Funduq        | Arabic           | Hotel                | Pondok          | Hut                     | Indonesian     |
+| Potlood      | Potlood       | Dutch            | Pencil               | Potlot          | Pencil                  | Javanese       |
 |              |               |                  |                      |                 |                         |                |
 # TODO
 - [ ] Learn about pronunciation systems.
