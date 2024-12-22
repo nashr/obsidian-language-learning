@@ -36,5 +36,6 @@ The actual language the Indonesian word comes from. It is hard to determine what
 | Potlood      | Potlood       | Dutch            | Pencil               | Potlot          | Pencil                  | Javanese       |
 | Bonbon       | Bonbon        | French           | Candy                | Bonbon          | Candy                   | Medanese       |
 | Tard         | Tar           | French           | Late                 | Entar           | Later                   | Batavian       |
+|              |               |                  |                      |                 |                         |                |
 # TODO
 - [ ] Learn about pronunciation systems.
