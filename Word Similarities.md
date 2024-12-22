@@ -37,9 +37,12 @@ The actual language the Indonesian word comes from. It is hard to determine what
 | Bonbon       | Bonbon        | French           | Candy                | Bonbon          | Candy                   | Medanese       |
 | Tard         | Tar           | French           | Late                 | Entar           | Later                   | Batavian       |
 | Savon        | Savon         | French           | Soap                 | Sabun           | Soap                    | Indonesian     |
-| Devant       | Devan         | French           | In front of          | Depan           | In front of             | Indonesian     |
+| Devant       | Devan         | French           | In front             | Depan           | In front                | Indonesian     |
 | Mesa         | Mesa          | Spanish          | Table                | Meja            | Table                   | Indonesian     |
 | Jabon        | Habon         | Spanish          | Soap                 | Sabun           | Soap                    | Indonesian     |
+| زرافة        | Zarofah       | Arabic           | Giraffe              | Jerapah         | Giraffe                 | Indonesian     |
+| شجرة         | Syajaroh      | Arabic           | Tree                 | Sejarah         | History                 | Indonesian     |
+| Moyen        | Moayan        | French           | Average              | Lumayan         | Middling                | Indonesian     |
 |              |               |                  |                      |                 |                         |                |
 # TODO
 - [ ] Learn about pronunciation systems.
