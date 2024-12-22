@@ -36,6 +36,10 @@ The actual language the Indonesian word comes from. It is hard to determine what
 | Potlood      | Potlood       | Dutch            | Pencil               | Potlot          | Pencil                  | Javanese       |
 | Bonbon       | Bonbon        | French           | Candy                | Bonbon          | Candy                   | Medanese       |
 | Tard         | Tar           | French           | Late                 | Entar           | Later                   | Batavian       |
+| Savon        | Savon         | French           | Soap                 | Sabun           | Soap                    | Indonesian     |
+| Devant       | Devan         | French           | In front of          | Depan           | In front of             | Indonesian     |
+| Mesa         | Mesa          | Spanish          | Table                | Meja            | Table                   | Indonesian     |
+| Jabon        | Habon         | Spanish          | Soap                 | Sabun           | Soap                    | Indonesian     |
 |              |               |                  |                      |                 |                         |                |
 # TODO
 - [ ] Learn about pronunciation systems.
