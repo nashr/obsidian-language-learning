@@ -43,6 +43,6 @@ The actual language the Indonesian word comes from. It is hard to determine what
 | زرافة        | Zarofah       | Arabic           | Giraffe              | Jerapah         | Giraffe                 | Indonesian     |
 | شجرة         | Syajaroh      | Arabic           | Tree                 | Sejarah         | History                 | Indonesian     |
 | Moyen        | Moayan        | French           | Average              | Lumayan         | Middling                | Indonesian     |
-|              |               |                  |                      |                 |                         |                |
+| Klaar        | Klaar         | Dutch            | Finished             | Kelar           | Finished                | Indonesian     |
 # TODO
 - [ ] Learn about pronunciation systems.
