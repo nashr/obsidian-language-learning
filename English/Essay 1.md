@@ -1,0 +1,1 @@
+What do I want to write? Can Obsidian detect misspellings? Yes, it can. I need guidance, or a guidance? I need a stepping stone.
