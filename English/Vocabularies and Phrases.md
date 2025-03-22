@@ -83,4 +83,44 @@ To start a computer or a piece of software.
 It takes forever to boot up my old laptop, so I need to get a new one.
 
 Entry 17
+Picture-perfect
+Flawless or ideal in appearance or execution.
+Their wedding was picture-perfect, from the venue to the decorations.
+
+Entry 18
+To bide [one's] time
+To wait patiently for an opportunity.
+She was biding her time, waiting for the perfect moment to ask for a promotion.
+
+Entry 19
+Train wreck
+A disastrous situation, often entertaining in its failure.
+The project was a complete train wreck from start to finish.
+
+Entry 20
+To be hard-pressed
+To find it difficult to do something.
+You'd be hard-pressed to find a better restaurant in town than this one.
+
+Entry 21
+Uphill battle
+A difficult struggle requiring significant effort to overcome obstacles.
+Learning a new language as an adult can feel like an uphill battle.
+
+Entry 22
+To cater to
+To accommodate or provide what is desired by a specific group.
+The new restaurant caters to vegetarians and vegans.
+
+Entry 23
+To prey on
+To take advantage of someone or something, often in a harmful or unfair way.
+The company preyed on vulnerable customers with high-interest loans.
+
+Entry 24
+Take the fight to
+To confront or challenge a person or issue directly.
+The team decided to take the fight to their competitors by launching a better product.
+
+Entry 25
 TODO
